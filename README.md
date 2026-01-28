@@ -1,2 +1,2 @@
 # wpDeploy
-deploying web on Vercel.app
+Here's the link: https://wp-deploy2.vercel.app/
